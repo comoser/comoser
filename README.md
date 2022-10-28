@@ -3,7 +3,7 @@
 I'm a senior software engineer currently working at xgeeks <img src="https://xgeeks.io/assets/favicon/favicon-32.png" alt="xgeeks" width="18" />
 
 I've had the opportunity to work on a lot of different projects throughout my career, but I've been working especially in marketplaces related to the automotive space. 
-I try to keep active in the open source world, but it's not easy sometimes. I love write and share my knowledge, so please take a look at some of my articles over at medium.
+I try to keep active in the open source world, but it's not easy sometimes. I love to write and to share my knowledge, so please take a look at some of my articles over at medium.
 
 ## 🤝 Connect with me
 [<img align="left" alt="david-alecrim | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/david-alecrim/)
