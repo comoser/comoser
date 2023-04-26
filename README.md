@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋 ,I'm David!</h1>
 
-I'm a senior product engineer currently working at xgeeks <img src="https://kigroup.de/contents/kigroupcompany/xgeeks.svg" alt="xgeeks" width="18" />
+I'm a senior product engineer currently working at [xgeeks](https://xgeeks.io/)
 
 I've had the opportunity to work on a lot of different projects throughout my career, but I've been working especially in marketplaces related to the automotive space. 
 I try to keep active in the open source world, but it's not easy sometimes. I love to write and to share my knowledge, so please take a look at some of my articles over at medium.
