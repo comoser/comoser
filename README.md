@@ -10,8 +10,8 @@ I try to keep active in the open source world, but it's not easy sometimes. I lo
 [![@davidalecrim](https://img.shields.io/badge/Medium-%2312100E?style=for-the-badge&logo=medium&logoColor=white&raycast-width=40&raycast-height=30)](https://medium.com/@davidalecrim)
 
 ## 🎙 Latest talks
-- [Require(‘lx’)](https://youtu.be/yMIKG6jg91M)
 - [xgeeks Youtube Lives](https://youtu.be/Vzp6QSc3SUY)
+- [Require(‘lx’)](https://youtu.be/yMIKG6jg91M)
 
 ## 📖 Latest articles
 - [Context is everything](https://medium.com/xgeeks/context-is-everything-27359ba799d7)
