@@ -9,6 +9,10 @@ I try to keep active in the open source world, but it's not easy sometimes. I lo
 [![david-alecrim](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&raycast-width=40&raycast-height=30)](https://www.linkedin.com/in/david-alecrim/)
 [![@davidalecrim](https://img.shields.io/badge/Medium-%2312100E?style=for-the-badge&logo=medium&logoColor=white&raycast-width=40&raycast-height=30)](https://medium.com/@davidalecrim)
 
+## 🎙 Latest talks
+- [Require(‘lx’)](https://youtu.be/yMIKG6jg91M)
+- [xgeeks Youtube Lives](https://youtu.be/Vzp6QSc3SUY)
+
 ## 📖 Latest articles
 - [Context is everything](https://medium.com/xgeeks/context-is-everything-27359ba799d7)
 - [How to: Communication protocols](https://medium.com/xgeeks/how-to-communication-protocols-ab7037507345)
