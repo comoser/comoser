@@ -1,13 +1,13 @@
 <h1 align="center">Hi there 👋 ,I'm David!</h1>
 
-I'm a senior product engineer currently working at xgeeks <img src="[https://xgeeks.io/assets/favicon/favicon-32.png](https://kigroup.de/contents/kigroupcompany/xgeeks.svg)" alt="xgeeks" width="18" />
+I'm a senior product engineer currently working at xgeeks <img src="https://kigroup.de/contents/kigroupcompany/xgeeks.svg" alt="xgeeks" width="18" />
 
 I've had the opportunity to work on a lot of different projects throughout my career, but I've been working especially in marketplaces related to the automotive space. 
 I try to keep active in the open source world, but it's not easy sometimes. I love to write and to share my knowledge, so please take a look at some of my articles over at medium.
 
 ## 🤝 Connect with me
-![david-alecrim](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&raycast-width=40&raycast-height=30)
-![@davidalecrim](https://img.shields.io/badge/Medium-%2312100E?style=for-the-badge&logo=medium&logoColor=white&raycast-width=40&raycast-height=30)
+[![david-alecrim](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&raycast-width=40&raycast-height=30)](https://www.linkedin.com/in/david-alecrim/)
+[![@davidalecrim](https://img.shields.io/badge/Medium-%2312100E?style=for-the-badge&logo=medium&logoColor=white&raycast-width=40&raycast-height=30)](https://medium.com/@davidalecrim)
 
 ## 📖 Latest articles
 - [Context is everything](https://medium.com/xgeeks/context-is-everything-27359ba799d7)
