@@ -2,12 +2,32 @@
 
 I'm a senior product engineer currently working at [xgeeks](https://xgeeks.io/)
 
-I've had the opportunity to work on a lot of different projects throughout my career, but I've been working especially in marketplaces related to the automotive space. 
-I try to keep active in the open source world, but it's not easy sometimes. I love to write and to share my knowledge, so please take a look at some of my articles over at medium.
+I've had the opportunity to work on a lot of different projects in different fields throughout my career, but I've been working especially in the e-commerce sector doing fullstack engineering.
+I try to keep active in the open source world and I love to write and to share my knowledge. Feel free to read my articles, watch some of my talks or try out some of my open source creations!
 
 ## 🤝 Connect with me
 [![david-alecrim](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&raycast-width=40&raycast-height=30)](https://www.linkedin.com/in/david-alecrim/)
 [![@davidalecrim](https://img.shields.io/badge/Medium-%2312100E?style=for-the-badge&logo=medium&logoColor=white&raycast-width=40&raycast-height=30)](https://medium.com/@davidalecrim)
+
+## 👐 Latest open source creations
+
+### Simple Reminder for [raycast](https://www.raycast.com/)
+Created this extension for raycast so that I can set as many reminders as I want throughout the day and get reminded directly by the system. I thought that other people would like that too 😉 Give it a try and drop me some feedback!
+
+<a title="Install simple-reminder Raycast Extension" href="https://www.raycast.com/comoser/simple-reminder"><img src="https://www.raycast.com/comoser/simple-reminder/install_button@2x.png" height="64" alt="" style="height: 64px;"></a>
+
+### Micro Frontends Shop Demo
+Created this demo version of a solution I implemented for a client. It's a composition of frontends and ways to connect and communicate between them easily. It's done by leveraging the Webpack 5 Module Federation technology.
+
+- [Repository for Micro Frontends Store](https://github.com/comoser/clothes-store-micro-frontends)
+- [First article explaining theory](https://medium.com/xgeeks/micro-frontends-at-scale-part-1-a8ab67bfb773)
+- [Second article explaining the solution](https://levelup.gitconnected.com/micro-frontends-at-scale-part-2-d10994f09f18)
+
+### React Native Background Location
+Created this demo version of a solution I implemented for a client. It's basically a system for background location with short intervals of wake ups implemented natively in Java for React Native applications.
+
+- [Repository for RN Background Location](https://github.com/comoser/rn-background-location)
+- [Article explaining the solution](https://medium.com/xgeeks/react-native-background-location-5602205ec795)
 
 ## 🎙 Latest talks
 - [xgeeks Youtube Lives](https://youtu.be/Vzp6QSc3SUY)
