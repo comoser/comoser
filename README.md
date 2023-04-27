@@ -35,6 +35,11 @@ I created this demo version of a solution I implemented for a client. It's basic
 - [Repository for RN Background Location](https://github.com/comoser/rn-background-location)
 - [Article explaining the solution](https://medium.com/xgeeks/react-native-background-location-5602205ec795)
 
+### Snipe-IT docker-compose setup
+I assembled the necessary so that an instance of Snipe-IT (an IT assets management tool) could run in a docker-compose environment (since the documentation only had plain docker pages).
+
+- [Repository for the Snipe-IT setup](https://github.com/comoser/snipe-it-docker-compose)
+
 ## 🎙 Latest talks
 - [xgeeks Youtube Lives - Micro Frontends at scale](https://youtu.be/Vzp6QSc3SUY)
 - [Require(‘lx’) meetup - Micro Frontends at scale](https://youtu.be/yMIKG6jg91M)
