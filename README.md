@@ -8,6 +8,7 @@ I try to keep active in the open source world and I love to write and to share m
 
 <h2 align="center">🤝 Connect with me</h2>
 
+[![GitHub followers](https://img.shields.io/github/followers/comoser?color=green&label=Github&logo=github&logoColor=white&style=for-the-badge)](https://github.com/comoser)
 [![david-alecrim](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&raycast-width=40&raycast-height=30)](https://www.linkedin.com/in/david-alecrim/)
 [![@davidalecrim](https://img.shields.io/badge/Medium-%2312100E?style=for-the-badge&logo=medium&logoColor=white&raycast-width=40&raycast-height=30)](https://medium.com/@davidalecrim)
 
