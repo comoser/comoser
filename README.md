@@ -2,7 +2,8 @@
 
 I'm a senior product engineer currently working at [xgeeks](https://xgeeks.io/)
 
-I've had the opportunity to work on a lot of different projects in different fields throughout my career, but I've been working especially in the e-commerce sector doing fullstack engineering.
+I've had the opportunity to work on a lot of different projects in different fields throughout my career, but I've been working especially in the e-commerce sector doing fullstack engineering. I created some open sourced solutions in different spaces (read below) and also contributed to some major tools/frameworks like [Gatsby](https://www.gatsbyjs.com/) and [Babel loader](https://www.npmjs.com/package/babel-loader).
+
 I try to keep active in the open source world and I love to write and to share my knowledge. Feel free to read my articles, watch some of my talks or try out some of my open source creations!
 
 ## 🤝 Connect with me
