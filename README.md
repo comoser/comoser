@@ -6,11 +6,12 @@ I've had the opportunity to work on a lot of different projects in different fie
 
 I try to keep active in the open source world and I love to write and to share my knowledge. Feel free to read my articles, watch some of my talks or try out some of my open source creations!
 
-## 🤝 Connect with me
+<h2 align="center">🤝 Connect with me</h2>
+
 [![david-alecrim](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&raycast-width=40&raycast-height=30)](https://www.linkedin.com/in/david-alecrim/)
 [![@davidalecrim](https://img.shields.io/badge/Medium-%2312100E?style=for-the-badge&logo=medium&logoColor=white&raycast-width=40&raycast-height=30)](https://medium.com/@davidalecrim)
 
-## 👐 Latest open source creations
+<h2 align="center">👐 Latest open source creations</h2>
 
 ### Simple Reminder for [raycast](https://www.raycast.com/)
 I created this extension for raycast so that I can set as many reminders as I want throughout the day and get reminded directly by the system. I thought that other people would like that too 😉 Give it a try and drop me some feedback!
@@ -40,11 +41,13 @@ I assembled the necessary so that an instance of Snipe-IT (an IT assets manageme
 
 - [Repository for the Snipe-IT setup](https://github.com/comoser/snipe-it-docker-compose)
 
-## 🎙 Latest talks
+<h2 align="center">🎙 Latest talks</h2>
+
 - [xgeeks Youtube Lives - Micro Frontends at scale](https://youtu.be/Vzp6QSc3SUY)
 - [Require(‘lx’) meetup - Micro Frontends at scale](https://youtu.be/yMIKG6jg91M)
 
-## 📖 Latest articles
+<h2 align="center">📖 Latest articles</h2>
+
 - [Context is everything](https://medium.com/xgeeks/context-is-everything-27359ba799d7)
 - [How to: Communication protocols](https://medium.com/xgeeks/how-to-communication-protocols-ab7037507345)
 - [How to: Maintainable tests](https://medium.com/xgeeks/how-to-maintainable-tests-fca4ba7483b6)
