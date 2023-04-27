@@ -12,19 +12,24 @@ I try to keep active in the open source world and I love to write and to share m
 ## 👐 Latest open source creations
 
 ### Simple Reminder for [raycast](https://www.raycast.com/)
-Created this extension for raycast so that I can set as many reminders as I want throughout the day and get reminded directly by the system. I thought that other people would like that too 😉 Give it a try and drop me some feedback!
+I created this extension for raycast so that I can set as many reminders as I want throughout the day and get reminded directly by the system. I thought that other people would like that too 😉 Give it a try and drop me some feedback!
 
 <a title="Install simple-reminder Raycast Extension" href="https://www.raycast.com/comoser/simple-reminder"><img src="https://www.raycast.com/comoser/simple-reminder/install_button@2x.png" height="64" alt="" style="height: 64px;"></a>
 
+### Baby food intro
+I recently became a father (👶🎉😁) and at some point I knew I was going to do solid food introduction to my baby. I leveraged the hacktoberfest to create an API to keep track of the food that's been introduced to my baby and by extension, to any of yours if you choose to use it. There's a UI also coming up, but it's still a work in progress!
+- [API](https://github.com/comoser/baby-food-intro-api)
+- [UI](https://github.com/comoser/baby-food-intro-ui)
+
 ### Micro Frontends Shop Demo
-Created this demo version of a solution I implemented for a client. It's a composition of frontends and ways to connect and communicate between them easily. It's done by leveraging the Webpack 5 Module Federation technology.
+I created this demo version of a solution I implemented for a client. It's a composition of frontends and ways to connect and communicate between them easily. It's done by leveraging the Webpack 5 Module Federation technology.
 
 - [Repository for Micro Frontends Store](https://github.com/comoser/clothes-store-micro-frontends)
 - [First article explaining theory](https://medium.com/xgeeks/micro-frontends-at-scale-part-1-a8ab67bfb773)
 - [Second article explaining the solution](https://levelup.gitconnected.com/micro-frontends-at-scale-part-2-d10994f09f18)
 
 ### React Native Background Location
-Created this demo version of a solution I implemented for a client. It's basically a system for background location with short intervals of wake ups implemented natively in Java for React Native applications.
+I created this demo version of a solution I implemented for a client. It's basically a system for background location with short intervals of wake ups implemented natively in Java for React Native applications.
 
 - [Repository for RN Background Location](https://github.com/comoser/rn-background-location)
 - [Article explaining the solution](https://medium.com/xgeeks/react-native-background-location-5602205ec795)
