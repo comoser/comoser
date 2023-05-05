@@ -31,14 +31,7 @@ I created this demo version of a solution I implemented for a client. It's a com
 - [First article explaining theory](https://medium.com/xgeeks/micro-frontends-at-scale-part-1-a8ab67bfb773)
 - [Second article explaining the solution](https://levelup.gitconnected.com/micro-frontends-at-scale-part-2-d10994f09f18)
 
-### React Native Background Location
-I created this demo version of a solution I implemented for a client. It's basically a system for background location with short intervals of wake ups implemented natively in Java for React Native applications.
-
-- [Repository for RN Background Location](https://github.com/comoser/rn-background-location)
-- [Article explaining the solution](https://medium.com/xgeeks/react-native-background-location-5602205ec795)
-
-### Snipe-IT docker-compose setup
-I assembled the necessary so that an instance of Snipe-IT (an IT assets management tool) could run in a docker-compose environment (since the documentation only had plain docker pages).
+**Checkout the rest of my open sourced creations [over at my personal website](https://davidalecrim.dev/open-source)**
 
 - [Repository for the Snipe-IT setup](https://github.com/comoser/snipe-it-docker-compose)
 
@@ -52,9 +45,8 @@ I assembled the necessary so that an instance of Snipe-IT (an IT assets manageme
 - [Context is everything](https://medium.com/xgeeks/context-is-everything-27359ba799d7)
 - [How to: Communication protocols](https://medium.com/xgeeks/how-to-communication-protocols-ab7037507345)
 - [How to: Maintainable tests](https://medium.com/xgeeks/how-to-maintainable-tests-fca4ba7483b6)
-- [Micro-Frontends at scale (part 2)](https://levelup.gitconnected.com/micro-frontends-at-scale-part-2-d10994f09f18)
-- [Micro-Frontends at scale (part 1)](https://medium.com/xgeeks/micro-frontends-at-scale-part-1-a8ab67bfb773)
 
+**Checkout the rest of my articles [over at my personal website](https://davidalecrim.dev/articles)**
 
 ## 📊 Stats
 ![David's github stats](https://github-readme-stats.vercel.app/api?username=comoser&count_private=true&show_icons=true&theme=nord&hide=contribs)
