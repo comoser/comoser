@@ -31,14 +31,7 @@ I created this demo version of a solution I implemented for a client. It's a com
 - [First article explaining theory](https://medium.com/xgeeks/micro-frontends-at-scale-part-1-a8ab67bfb773)
 - [Second article explaining the solution](https://levelup.gitconnected.com/micro-frontends-at-scale-part-2-d10994f09f18)
 
-**Checkout the rest of my open sourced creations [over at my personal website](https://davidalecrim.dev/open-source)**
-
-- [Repository for the Snipe-IT setup](https://github.com/comoser/snipe-it-docker-compose)
-
-<h2 align="center">🎙 Latest talks</h2>
-
-- [xgeeks Youtube Lives - Micro Frontends at scale](https://youtu.be/Vzp6QSc3SUY)
-- [Require(‘lx’) meetup - Micro Frontends at scale](https://youtu.be/yMIKG6jg91M)
+> **Checkout the rest of my open sourced creations [over at my personal website](https://davidalecrim.dev/open-source)**
 
 <h2 align="center">📖 Latest articles</h2>
 
@@ -46,7 +39,12 @@ I created this demo version of a solution I implemented for a client. It's a com
 - [How to: Communication protocols](https://medium.com/xgeeks/how-to-communication-protocols-ab7037507345)
 - [How to: Maintainable tests](https://medium.com/xgeeks/how-to-maintainable-tests-fca4ba7483b6)
 
-**Checkout the rest of my articles [over at my personal website](https://davidalecrim.dev/articles)**
+> **Checkout the rest of my articles [over at my personal website](https://davidalecrim.dev/articles)**
+
+<h2 align="center">🎙 Latest talks</h2>
+
+- [xgeeks Youtube Lives - Micro Frontends at scale](https://youtu.be/Vzp6QSc3SUY)
+- [Require(‘lx’) meetup - Micro Frontends at scale](https://youtu.be/yMIKG6jg91M)
 
 ## 📊 Stats
 ![David's github stats](https://github-readme-stats.vercel.app/api?username=comoser&count_private=true&show_icons=true&theme=nord&hide=contribs)
