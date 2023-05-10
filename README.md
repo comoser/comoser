@@ -35,9 +35,9 @@ I created this demo version of a solution I implemented for a client. It's a com
 
 <h2 align="center">📖 Latest articles</h2>
 
+- [Raycast extension building](https://levelup.gitconnected.com/raycast-extension-building-3e4a1ab385ce)
 - [Context is everything](https://medium.com/xgeeks/context-is-everything-27359ba799d7)
 - [How to: Communication protocols](https://medium.com/xgeeks/how-to-communication-protocols-ab7037507345)
-- [How to: Maintainable tests](https://medium.com/xgeeks/how-to-maintainable-tests-fca4ba7483b6)
 
 > **Checkout the rest of my articles [over at my personal website](https://davidalecrim.dev/articles)**
 
