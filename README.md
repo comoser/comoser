@@ -14,6 +14,11 @@ I try to keep active in the open source world and I love to write and to share m
 
 <h2 align="center">👐 Latest open source creations</h2>
 
+### Typescript Mock Generator for [raycast](https://www.raycast.com/)
+Typescript is widely adopted nowadays and one thing that us developers tend to do is create mock data to handle testing in our applications or even set up demo environments. To create these mocks easily, here's [Typescript Mock Generator](https://www.raycast.com/comoser/typescript-mock-generator), the raycast extension that let's you create mocks from your TS interfaces!
+
+<a title="Install typescript-mock-generator Raycast Extension" href="https://www.raycast.com/comoser/typescript-mock-generator"><img src="https://www.raycast.com/comoser/typescript-mock-generator/install_button@2x.png" height="64" alt="" style="height: 64px;"></a>
+
 ### Simple Reminder for [raycast](https://www.raycast.com/)
 I created this extension for raycast so that I can set as many reminders as I want throughout the day and get reminded directly by the system. I thought that other people would like that too 😉 Give it a try and drop me some feedback!
 
@@ -23,13 +28,6 @@ I created this extension for raycast so that I can set as many reminders as I wa
 I recently became a father (👶🎉😁) and at some point I knew I was going to do solid food introduction to my baby. I leveraged the hacktoberfest to create an API to keep track of the food that's been introduced to my baby and by extension, to any of yours if you choose to use it. There's a UI also coming up, but it's still a work in progress!
 - [Repository for the API](https://github.com/comoser/baby-food-intro-api)
 - [Repository for the UI](https://github.com/comoser/baby-food-intro-ui)
-
-### Micro Frontends Shop Demo
-I created this demo version of a solution I implemented for a client. It's a composition of frontends and ways to connect and communicate between them easily. It's done by leveraging the Webpack 5 Module Federation technology.
-
-- [Repository for Micro Frontends Store](https://github.com/comoser/clothes-store-micro-frontends)
-- [First article explaining theory](https://medium.com/xgeeks/micro-frontends-at-scale-part-1-a8ab67bfb773)
-- [Second article explaining the solution](https://levelup.gitconnected.com/micro-frontends-at-scale-part-2-d10994f09f18)
 
 > **Checkout the rest of my open sourced creations [over at my personal website](https://davidalecrim.dev/open-source)**
 
