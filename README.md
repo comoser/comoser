@@ -14,6 +14,11 @@ I try to keep active in the open source world and I love to write and to share m
 
 <h2 align="center">👐 Latest open source creations</h2>
 
+### Surfs Up for [raycast](https://www.raycast.com/)
+This one is for all the water sports lovers. A raycast extension to search the weather and the ocean conditions in your favorite surfing spots!
+
+<a title="Install surfs-up Raycast Extension" href="https://www.raycast.com/comoser/surfs-up"><img src="https://www.raycast.com/comoser/surfs-up/install_button@2x.png" height="64" alt="" style="height: 64px;"></a>
+
 ### Typescript Mock Generator for [raycast](https://www.raycast.com/)
 Typescript is widely adopted nowadays and one thing that us developers tend to do is create mock data to handle testing in our applications or even set up demo environments. To create these mocks easily, here's [Typescript Mock Generator](https://www.raycast.com/comoser/typescript-mock-generator), the raycast extension that let's you create mocks from your TS interfaces!
 
