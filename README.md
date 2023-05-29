@@ -29,12 +29,7 @@ I created this extension for raycast so that I can set as many reminders as I wa
 
 <a title="Install simple-reminder Raycast Extension" href="https://www.raycast.com/comoser/simple-reminder"><img src="https://www.raycast.com/comoser/simple-reminder/install_button@2x.png" height="64" alt="" style="height: 64px;"></a>
 
-### Baby food intro
-I recently became a father (👶🎉😁) and at some point I knew I was going to do solid food introduction to my baby. I leveraged the hacktoberfest to create an API to keep track of the food that's been introduced to my baby and by extension, to any of yours if you choose to use it. There's a UI also coming up, but it's still a work in progress!
-- [Repository for the API](https://github.com/comoser/baby-food-intro-api)
-- [Repository for the UI](https://github.com/comoser/baby-food-intro-ui)
-
-> **Checkout the rest of my open sourced creations [over at my personal website](https://davidalecrim.dev/open-source)**
+## > **Checkout the rest of my open sourced creations [over at my personal website](https://davidalecrim.dev/open-source)**
 
 <h2 align="center">📖 Latest articles</h2>
 
@@ -42,12 +37,14 @@ I recently became a father (👶🎉😁) and at some point I knew I was going t
 - [Context is everything](https://medium.com/xgeeks/context-is-everything-27359ba799d7)
 - [How to: Communication protocols](https://medium.com/xgeeks/how-to-communication-protocols-ab7037507345)
 
-> **Checkout the rest of my articles [over at my personal website](https://davidalecrim.dev/articles)**
+## > **Checkout the rest of my articles [over at my personal website](https://davidalecrim.dev/articles)**
 
 <h2 align="center">🎙 Latest talks</h2>
 
 - [xgeeks Youtube Lives - Micro Frontends at scale](https://youtu.be/Vzp6QSc3SUY)
 - [Require(‘lx’) meetup - Micro Frontends at scale](https://youtu.be/yMIKG6jg91M)
+
+## > **Checkout the rest of my talks [over at my personal website](https://davidalecrim.dev/talks)**
 
 ## 📊 Stats
 ![David's github stats](https://github-readme-stats.vercel.app/api?username=comoser&count_private=true&show_icons=true&theme=nord&hide=contribs)
