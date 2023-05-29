@@ -6,6 +6,10 @@ I've had the opportunity to work on a lot of different projects in different fie
 
 I try to keep active in the open source world and I love to write and to share my knowledge. Feel free to read my articles, watch some of my talks or try out some of my open source creations!
 
+<h2 align="center">👨‍🏫 I'm mentoring!</h2>
+
+I recently joined [ADPList.org](https://adplist.org/mentors/david-alecrim) as a mentor and I'm providing mentoring sessions through the platform. If you want to schedule a session with me or if you know someone that wants to, just access the [bookings page](https://adplist.org/mentors/david-alecrim) and schedule something, I'd be happy to connect with you and discuss your problems.
+
 <h2 align="center">🤝 Connect with me</h2>
 
 [![GitHub followers](https://img.shields.io/github/followers/comoser?color=green&label=Github&logo=github&logoColor=white&style=for-the-badge&raycast-width=40&raycast-height=30)](https://github.com/comoser)
