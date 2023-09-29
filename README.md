@@ -18,6 +18,11 @@ I recently joined [ADPList.org](https://adplist.org/mentors/david-alecrim) as a 
 
 <h2 align="center">👐 Latest open source creations</h2>
 
+### intelli-mate
+Supercharge your workplace productivity with collaboration enabled AI. Data is fully secured. The missing AI workplace tool for all enterprise needs.
+Discover all about this amazing product over at the [official github project](https://github.com/xgeekshq/intelli-mate)
+
+
 ### Surfs Up for [raycast](https://www.raycast.com/)
 This one is for all the water sports lovers. A raycast extension to search the weather and the ocean conditions in your favorite surfing spots!
 
@@ -27,13 +32,6 @@ This one is for all the water sports lovers. A raycast extension to search the w
 Typescript is widely adopted nowadays and one thing that us developers tend to do is create mock data to handle testing in our applications or even set up demo environments. To create these mocks easily, here's [Typescript Mock Generator](https://www.raycast.com/comoser/typescript-mock-generator), the raycast extension that let's you create mocks from your TS interfaces!
 
 <a title="Install typescript-mock-generator Raycast Extension" href="https://www.raycast.com/comoser/typescript-mock-generator"><img src="https://www.raycast.com/comoser/typescript-mock-generator/install_button@2x.png" height="64" alt="" style="height: 64px;"></a>
-
-### Simple Reminder for [raycast](https://www.raycast.com/)
-I created this extension for raycast so that I can set as many reminders as I want throughout the day and get reminded directly by the system. I thought that other people would like that too 😉 Give it a try and drop me some feedback!
-
-<a title="Install simple-reminder Raycast Extension" href="https://www.raycast.com/comoser/simple-reminder"><img src="https://www.raycast.com/comoser/simple-reminder/install_button@2x.png" height="64" alt="" style="height: 64px;"></a>
-
-> Checkout the rest of my open sourced creations [over at my personal website](https://davidalecrim.dev/open-source)
 
 <h2 align="center">📖 Latest articles</h2>
 
