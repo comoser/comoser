@@ -43,8 +43,9 @@ Typescript is widely adopted nowadays and one thing that us developers tend to d
 
 <h2 align="center">🎙 Latest talks</h2>
 
+- [Strategic Engineering: Empowering teams for excellence](https://youtu.be/wKOn2bwwe5I)
+- [Building Intelli-mate: Real-World Tech Tales](https://youtu.be/QRo8IVY3i0k)
 - [xgeeks Youtube Lives - Micro Frontends at scale](https://youtu.be/Vzp6QSc3SUY)
-- [Require(‘lx’) meetup - Micro Frontends at scale](https://youtu.be/yMIKG6jg91M)
 
 > Checkout the rest of my talks [over at my personal website](https://davidalecrim.dev/talks)
 
